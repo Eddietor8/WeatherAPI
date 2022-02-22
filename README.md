@@ -1,2 +1,2 @@
-# WeatherAPI-
+# WeatherAPI
 WeatherAPI Website
